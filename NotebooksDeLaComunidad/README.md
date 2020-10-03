@@ -3,9 +3,13 @@
 https://github.com/DianaCarolinaCabrera/DianaCarolinaCabrera.github.io/blob/master/Machine_learning_with_MLlib_Spark.ipynb
 
 
+Mathew Powers:
 https://github.com/MrPowers/farsante
 
 https://github.com/MrPowers/quinn/
+
+https://github.com/MrPowers/ceja
+
 
 
 Alexander Bolaño:
@@ -27,3 +31,22 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 
 
+
+Yury Niño
+https://speakerdeck.com/yurynino/chaosspark
+
+
+
+https://link.medium.com/tORrr1AUq4 
+
+
+https://docs.google.com/presentation/d/1NxtwBrhTaROp0YBFTLA1fDOSnSYawv5Ey0k0LaFBiZo/edit?usp=sharing
+
+
+ScyPy 2019
+https://www.youtube.com/playlist?list=PLfVc-mR8AkU2P6DT7ySZP3JfbQlic0mQh
+
+
+WorkShop Apache Spark 
+Instalar Spark en Windows
+https://github.com/Cheng-Lin-Li/Spark/wiki/How-to-install-Spark-2.1.0-in-Windows-10-environment
