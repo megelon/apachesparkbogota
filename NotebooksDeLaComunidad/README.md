@@ -1,9 +1,13 @@
 
-
+Diana Cabrera
 https://github.com/DianaCarolinaCabrera/DianaCarolinaCabrera.github.io/blob/master/Machine_learning_with_MLlib_Spark.ipynb
 
+<<<<<<< HEAD
 
 Mathew Powers:
+=======
+Matthew Powers
+>>>>>>> master
 https://github.com/MrPowers/farsante
 
 https://github.com/MrPowers/quinn/
