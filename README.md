@@ -1,15 +1,19 @@
 # APACHE SPARK BOGOTÁ
 
-Slack https://launchpass.com/apachesparkbogota
+Repositorio oficial de la comunidad :rocket: ApacheSparkBogotá :rocket:
 
-YouTube https://www.youtube.com/channel/UCmSd65eacdUG1PcT7JNhuMA 
+:rocket: Meetup https://www.meetup.com/es/Apache-Spark-Bogota/
 
-Twitter https://twitter.com/BogotaSpark
+Encuéntranos en nuestros canales oficiales:
 
-Correo apache.spark.bogota@gmail.com
+:heavy_check_mark: Slack https://launchpass.com/apachesparkbogota
 
-Linkedin https://www.linkedin.com/groups/8961841/
+:heavy_check_mark:YouTube https://www.youtube.com/channel/UCmSd65eacdUG1PcT7JNhuMA 
 
-Meetup https://www.meetup.com/es/Apache-Spark-Bogota/
+:heavy_check_mark:Twitter https://twitter.com/BogotaSpark
 
-Call for speakers https://forms.gle/kUxreGkddWQr8KVj6
+:heavy_check_mark: Correo apache.spark.bogota@gmail.com :mailbox:
+
+:heavy_check_mark: Linkedin https://www.linkedin.com/groups/8961841/
+
+:heavy_check_mark: Call for speakers https://forms.gle/kUxreGkddWQr8KVj6 :pencil:
