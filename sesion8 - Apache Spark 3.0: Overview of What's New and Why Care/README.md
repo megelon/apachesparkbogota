@@ -1,5 +1,5 @@
 
-# Apache Spark 3.0> Overview of What-s New and Why Care
+# Apache Spark 3.0: Overview of What's New and Why Care
 
 Repo
 NA
