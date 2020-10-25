@@ -16,8 +16,11 @@ https://github.com/MrPowers/ceja
 
 
 
-Alexander Bolaño:
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3287670840499320/1207105333842474/1342417686420184/latest.html
+Alexander Bolaño: 
+
+* *HashTag Populares en Twitter (Scala)* 👉 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3287670840499320/1207105333842474/1342417686420184/latest.html
+* *Simulador Rappi* 👉 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3287670840499320/2350083426658424/1342417686420184/latest.html
+* *Articulo Rappi:* 👉 https://bit.ly/35y0apY
 
 
 Jenny Guerrero
