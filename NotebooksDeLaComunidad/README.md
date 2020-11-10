@@ -33,9 +33,14 @@ Juan Duque Tobón
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3998865596914307/1736349582211417/5404927765596364/latest.html
 
 
+
 Milton Sanabria
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6833902264459442/79530381393717/1262520644965284/latest.html
 
+
+
+Daniel Portugal Revilla
+* 🦖 Template/arquetipo para iniciar con Spark Structured Streaming: https://github.com/DanielEdu/SparkStreaming-GettingStarted
 
 
 
