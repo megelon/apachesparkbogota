@@ -41,7 +41,8 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 Daniel Portugal Revilla
 * 🦖 Template/arquetipo para iniciar con Spark Structured Streaming: https://github.com/DanielEdu/SparkStreaming-GettingStarted
-
+* 🐘 Template/arquetipo para iniciar con Spark + Gradle: https://github.com/DanielEdu/Spark-Gradle-Templete-Lite
+* 🍿 Template/arquetipo para iniciar con Spark + sbt: https://github.com/DanielEdu/SparkDemoSbt
 
 
 Yury Niño
