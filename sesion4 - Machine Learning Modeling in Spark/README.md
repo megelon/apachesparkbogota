@@ -5,3 +5,5 @@ https://github.com/jcestevezc/Machine-Learning-Big-Data/blob/master/Machine%20Le
 
 Slides
 https://docs.google.com/presentation/d/1LnTfGJVHpB9mhqLvgMHbsrkyv-36hWfg6m4K6QxsekM/edit
+
+Linkedin
