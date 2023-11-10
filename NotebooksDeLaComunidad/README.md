@@ -1,8 +1,17 @@
 
-Wizeline
+Wizeline:
 
-* https://github.com/saulramirezcastro/spark_binary_processing
+* [Processing large binary files with Apache Spark] (https://github.com/saulramirezcastro/spark_binary_processing)
 
+German Andres Jejen:
+
+* [Entrena tu propio LLM] ()
+
+Matthew Powers:
+
+Miguel Diaz:
+
+* [mlflow ]
 
 Miguel Díaz: 
 
