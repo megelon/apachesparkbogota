@@ -1,7 +1,7 @@
 
 Wizeline:
 
-* [Processing large binary files with Apache Spark] (https://github.com/saulramirezcastro/spark_binary_processing)
+* [Processing large binary files with Apache Spark](https://github.com/saulramirezcastro/spark_binary_processing)
 
 German Andres Jejen:
 
@@ -11,7 +11,7 @@ Matthew Powers:
 
 Miguel Diaz:
 
-* [mlflow ]
+* [Model Serving with mlflow](https://github.com/megelon/pycon23)
 
 Miguel Díaz: 
 
